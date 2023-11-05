@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
             textViewStepDerector.setText("Derector Sensor  is not Present");
             isDerectorSensorPresent= false;
         }
+        String text = "đây là dòng thay đổi mới";
     }
 
     @Override
